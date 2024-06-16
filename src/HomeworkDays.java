@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Main {
+public class HomeworkDays {
     public static void main(String[] args) {
 
         Set<String> set = new HashSet<>();
